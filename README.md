@@ -11,6 +11,6 @@ tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
 istediğm birşey yok sadece ekibimin ve benim tatmin olmamız için starınızı eksik etmeyin <3
 
 # Meşhur Ekibimiz
-[Acerhizm](https://github.com/acerhizmq) , [JaylenOzi](https://github.com/JaylenOzi) , [SnowOuts](https://github.com/SnowsOuts) , [Ktria](https://github.com/ktriacxx) , [Parzival](https://github.com/JeParzival)
+[Acerhizm](https://github.com/acerhizmq) , [JaylenOzi](https://github.com/JaylenOzi) , [SnowOuts](https://github.com/SnowsOuts) , [Ktria](https://github.com/ktriacxx) , [Parzival](https://github.com/JeParzival) , [Mavera](https://github.com/Maveracim)
 
 
