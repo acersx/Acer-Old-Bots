@@ -2,7 +2,7 @@
 tüm botlarım qw
 
 # Diğer Repolara Ne Olacak?
-diğer tüm depolarımı sileceğim tüm paylaşacağım botlar tek bir repoya eklenecek.
+diğer tüm repolarımı sileceğim tüm paylaşacağım botlar tek bir repoya eklenecek.
 
 # Farklı Türde Botlar Gelecekmi?
 tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
