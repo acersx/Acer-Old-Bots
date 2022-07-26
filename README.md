@@ -7,7 +7,7 @@ diğer tüm repolarımı sileceğim tüm paylaşacağım botlar tek bir repoya e
 # Farklı Türde Botlar Gelecekmi?
 tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
 
-# Gereksinim
+# İstek
 istediğm birşey yok sadece ekibimin ve benim tatmin olmamız için starınızı eksik etmeyin <3
 
 # Meşhur Ekibimiz
