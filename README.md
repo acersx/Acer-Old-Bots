@@ -7,6 +7,9 @@ diğer tüm repolarımı sileceğim tüm paylaşacağım botlar tek bir repoya e
 # Farklı Türde Botlar Gelecekmi?
 tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
 
+# Yardım veya Bilgi için
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/340047062068494337?theme=dark&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/340047062068494337)
+
 # İstek
 istediğm birşey yok sadece ekibimin ve benim tatmin olmamız için starınızı eksik etmeyin <3
 
