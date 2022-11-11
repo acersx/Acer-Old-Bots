@@ -1,8 +1,5 @@
-# Acer-All-Bots
-tüm botlarım qw
-
-# Diğer Repolara Ne Olacak?
-diğer tüm repolarımı sileceğim tüm paylaşacağım botlar tek bir repoya eklenecek.
+# Acer-Old-Bots
+eski botlarımı koydum yeter artık sikerim uğraşamam bu v12lerle farklı v12leri atıcam hala iş görenleri :D
 
 # Farklı Türde Botlar Gelecekmi?
 tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
@@ -14,6 +11,6 @@ tabikide gelecek fakat bu repo üzerinden olmayacak merak etmeyin.
 istediğm birşey yok sadece ekibimin ve benim tatmin olmamız için starınızı eksik etmeyin <3
 
 # Meşhur Ekibimiz
-[Acerhizm](https://github.com/acerhizmq) , [JaylenOzi](https://github.com/JaylenOzi) , [SnowOuts](https://github.com/SnowsOuts) , [Ktria](https://github.com/ktriacxx) , [Parzival](https://github.com/JeParzival) , [Mavera](https://github.com/Maveracim)
+[Acerhizm](https://github.com/acerhizmq) , [JaylenOzi](https://github.com/JaylenOzi) , [SnowOuts](https://github.com/SnowsOuts) , [Ktria](https://github.com/ktriacxx) , [Parzival](https://github.com/JeParzival) , [Mavera](https://github.com/Maveracim) , [GokwOuts](https://github.com/Gokwouts) , [Letth](https://github.com/kaanxsrd)
 
 
